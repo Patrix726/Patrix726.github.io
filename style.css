@@ -111,7 +111,7 @@ section .description p {
     height: 100px;        
     margin: 5px 15px;
 }
-section .description svg:hover {
+.pl-icons svg:hover {
     transform: scale(1.05);
 }
 @keyframes onload {
